@@ -43,6 +43,11 @@ The goal was simple: collect Reddit posts, store them in the cloud, transform th
 
 ---
 
+
+## Architecture 
+
+![alt text](image.png)
+
 ## 📂 Repository Structure
 ```
 ├── dags/                 # Airflow DAGs
