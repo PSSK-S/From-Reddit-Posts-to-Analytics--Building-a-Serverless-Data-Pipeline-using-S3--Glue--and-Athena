@@ -1,0 +1,7 @@
+apache-airflow==2.7.1
+pandas
+numpy
+praw
+boto3
+configparser
+s3fs
